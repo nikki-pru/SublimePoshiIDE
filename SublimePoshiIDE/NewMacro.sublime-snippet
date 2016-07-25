@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<definition>
+</definition>]]></content>
+	<tabTrigger>newmacro</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>

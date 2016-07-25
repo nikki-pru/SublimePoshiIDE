@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<definition component-name="">
+	<property name="testray.main.component.name" value="" />
+
+	<set-up>
+	</set-up>
+
+	<tear-down>
+	</tear-down>
+
+	<command name="" priority="">
+		
+	</command>
+</definition>]]></content>
+	<tabTrigger>newtest</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>

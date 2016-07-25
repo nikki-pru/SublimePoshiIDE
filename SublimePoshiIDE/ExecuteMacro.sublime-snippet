@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+execute macro="">
+	<var name="" value="" />
+</execute>]]></content>
+	<tabTrigger>execute macro</tabTrigger>
+	<scope>text.xml</scope>
+</snippet>
