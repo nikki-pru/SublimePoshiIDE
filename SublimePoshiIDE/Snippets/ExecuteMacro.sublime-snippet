@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-execute macro="">
-	<var name="" value="" />
+execute macro="$1">
+	<var name="$2" value="$3" />
 </execute>]]></content>
 	<tabTrigger>execute macro</tabTrigger>
 	<scope>text.xml</scope>

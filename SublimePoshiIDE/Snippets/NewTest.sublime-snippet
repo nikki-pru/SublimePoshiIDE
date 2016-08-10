@@ -1,16 +1,18 @@
 <snippet>
 	<content><![CDATA[
-<definition component-name="">
-	<property name="testray.main.component.name" value="" />
+<definition component-name="$1">
+	<property name="testray.main.component.name" value="$2" />
 
 	<set-up>
+		$3
 	</set-up>
 
 	<tear-down>
+		$4
 	</tear-down>
 
-	<command name="" priority="">
-		
+	<command name="$5" priority="$6">
+		$7
 	</command>
 </definition>]]></content>
 	<tabTrigger>newtest</tabTrigger>
